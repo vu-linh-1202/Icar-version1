@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_56sdp"
+    android:background="@color/red"
+    android:orientation="horizontal">
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_56sdp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:padding="@dimen/_4sdp"
+                    android:src="@drawable/ic_menu" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="@dimen/_12sdp"
+                    android:layout_weight="1"
+                    android:padding="@dimen/_4sdp"
+                    android:text="@string/text_main"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_20sdp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="@dimen/_12sdp"
+                    android:padding="@dimen/_4sdp"
+                    android:src="@drawable/target" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:padding="@dimen/_4sdp"
+                    android:src="@drawable/car" />
+            </TableRow>
+
+</LinearLayout>

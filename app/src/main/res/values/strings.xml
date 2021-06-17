@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Srs-Icar-V1</string>
+    <string name="SignIn">Đăng nhập</string>
+    <string name="Register">Đăng ký</string>
+    <string name="get_pass">Lấy lại mật khẩu</string>
+    <string name="newText_pass">Tạo mật khẩu mới</string>
+    <string name="button_get_pass">Lấy lại mật khẩu</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="review_password">Nhập lại mật khẩu</string>
+    <string name="forget_password"> Quên mật khẩu?</string>
+    <string name="new_account"><u>Tạo mới!</u></string>
+    <string name="not_yet_account"> Bạn chưa có tài khoản?</string>
+    <string name="text_main"> ICAR Tracking</string>
+    <string name="phone_menu"> 1234567891</string>
+    <string name="text_item_menu">Chưa cập nhật tên</string>
+    <string name="text_location">Vị trí của tôi</string>
+    <string name="text_list_car">Danh sách xe</string>
+    <string name="text_info">Thông tin người dùng</string>
+    <string name="text_logout">Đăng xuất ứng dụng</string>
+    <string name="unavailable_internet">Mạng dữ liệu không khả dụng, thử lại sau!</string>
+
+</resources>
